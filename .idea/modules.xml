@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainWindow/MainWindow.iml" filepath="$PROJECT_DIR$/MainWindow/MainWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicPlay/MusicPlay.iml" filepath="$PROJECT_DIR$/MusicPlay/MusicPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tag/Tag.iml" filepath="$PROJECT_DIR$/Tag/Tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org/jaudiotagger/jaudiotagger.iml" filepath="$PROJECT_DIR$/org/jaudiotagger/jaudiotagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jflac/jflac.iml" filepath="$PROJECT_DIR$/jflac/jflac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicPlayWindow/musicPlayWindow.iml" filepath="$PROJECT_DIR$/musicPlayWindow/musicPlayWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sy8_musicPlayer.iml" filepath="$PROJECT_DIR$/sy8_musicPlayer.iml" />
+    </modules>
+  </component>
+</project>

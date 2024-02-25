@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MainWindow/src/ListsWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MainWindow/src/MainWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MusicPlay/src/Lyrics.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MusicPlay/src/NotWAVException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MusicPlay/src/audioplay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MusicPlay/src/filemusic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Tag/src/TagInfoUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/musicPlayWindow/src/musicPlayWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AudioFilePlayer.java" charset="UTF-8" />
+  </component>
+</project>
